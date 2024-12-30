@@ -5,4 +5,4 @@ I. CONTEXTE DU PROJET Description du Système Le système de supervision de prod
    1- Assurer la traçabilité complète de la production .
    2- Superviser en temps réel les performances .
    3- Gérer la qualité et la maintenance .
-   4- Fournir des analyses et rapports détaillés .
+   4- Fournir des analyses et rapports détaillés.
